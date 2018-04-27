@@ -1,4 +1,4 @@
-package com.rjxx.taxeasy.business.ims.service;
+package com.rjxx.taxeasy.dubbo.business.ims.service;
 
 /**
  * @ClassName DubboSkpService

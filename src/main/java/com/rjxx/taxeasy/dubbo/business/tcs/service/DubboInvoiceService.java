@@ -1,4 +1,4 @@
-package com.rjxx.taxeasy.business.tcs.service;
+package com.rjxx.taxeasy.dubbo.business.tcs.service;
 
 /**
  * @ClassName DubboInvoiceService
