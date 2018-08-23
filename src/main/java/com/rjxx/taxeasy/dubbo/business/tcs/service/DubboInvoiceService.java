@@ -121,4 +121,12 @@ public interface DubboInvoiceService {
      * @throws Exception
      */
     public String GetInvoicesToPrint(String p) throws Exception;
+
+    /**
+     * 凯盈打印发票
+     * @param p
+     * @return
+     * @throws Exception
+     */
+    public String PrintInvoice(String p) throws Exception;
 }
